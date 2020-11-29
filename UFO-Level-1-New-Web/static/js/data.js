@@ -1015,6 +1015,14 @@ var data = [{
     shape: "unknown",
     durationMinutes: "unknown",
     comments: "A tale of a UFO crash and a burial of its alien pilot in the local cemetery was sent to newspapers in Dallas and Fort Worth in April 1897 by local correspondent S.E. Hayden."
+  },
+  {
+    datetime: "4/6/1966",
+    city: "Melbourne",
+    state: "VIC",
+    country: "AUS",
+    shape: "unknown",
+    durationMinutes: "unknown",
+    comments: "More than 300 students and teachers of Westall High School in Melbourne, Australia saw an unbelievable sight on April 6, 1966, shares the New York Post. They were all looking incredulously at five planes that were attempting to corner and capture a UFO. This went on for a while before the UFO zipped away, out of sight. It is reported that the headmaster of the school and even strange men in black suits told the students and teachers never to say anything about it, even though it was witnessed by hundreds of people."
   }
-
 ];
