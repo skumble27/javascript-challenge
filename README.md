@@ -14,3 +14,13 @@ A website was designed in which to provide users with a list of all the UFO sigh
 
 ![Screen Shot1](https://raw.githubusercontent.com/skumble27/javascript-challenge/main/screenshots/screenshot1.png)
 
+#### Output onto the website
+
+![Screenshot](https://raw.githubusercontent.com/skumble27/javascript-challenge/main/screenshots/screenshot2.png)
+
+Two separate websites have been designed wherein the first site allows users to filter data based on dates whilst the second site allows users to filter based on dates, cities, country, state and/or shape of the UFO that was sighted. 
+
+**____________________________________________________________________________________________________________________________**
+
+Images utilised on the website slide show were drawn using Adobe Illustrator and 3DS Max software. 
+
