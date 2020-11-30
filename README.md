@@ -12,5 +12,5 @@ A website was designed in which to provide users with a list of all the UFO sigh
 
 #### Data Entry in the JavaScript File
 
-![Screen Shot1](E:\My Documents\Professional Development\Monash University Data Analytics Boot Camp\GitHubRepo\javascript-challenge\screenshots\screenshot1.png)
+![Screen Shot1](https://raw.githubusercontent.com/skumble27/javascript-challenge/main/screenshots/screenshot1.png)
 
