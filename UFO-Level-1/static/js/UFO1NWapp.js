@@ -51,6 +51,7 @@ function filteredTable(){
 
 }
 
+// If the users want to view the entire table once more after filtering, they have the option to click the resent button upon which, the entire table will load onto the page.
 function resetTable(){
     // Remove existing table
     d3.select("tbody").html("");

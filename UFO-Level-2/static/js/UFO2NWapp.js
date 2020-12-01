@@ -36,6 +36,7 @@ function filteredTable(){
     var dateSelect = d3.select("#datetime").property("value");
     console.log(dateSelect);
 
+    // Setting the variables to lower case allows for more accurate matching of the input data to the table values
     var citySelect = d3.select('#cityselect').property("value").toLowerCase();
     console.log(citySelect);
 
@@ -88,7 +89,7 @@ function filteredTable(){
     });
 
 }
-
+// If the users want to view the entire table once more after filtering, they have the option to click the resent button upon which, the entire table will load onto the page.
 function resetTable(){
     // Remove existing table
     d3.select("tbody").html("");
